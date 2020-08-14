@@ -1,0 +1,46 @@
+_repo: Contes-cruels_62874
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Villiers de L'Isle-Adam, Auguste, comte de
+    aliases:
+    - Villiers de L'Isle-Adam, Philippe-Auguste-Mathias, comte de
+    - Isle-Adam, Auguste Villiers de L', comte de
+    - L'Isle-Adam, Auguste Villiers de, comte de
+    - Villiers de L'Isle-Adam, Jean Marie Mathias Philippe Auguste, comte de
+    - De L'Isle-Adam, Auguste Villiers, comte de
+    - L'Isle-Adam, Auguste de Villiers de
+    birthdate: 1838
+    deathdate: 1889
+    gutenberg_agent_id: '6262'
+    url: http://www.gutenberg.org/2009/agents/6262
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Auguste_Villiers_de_l%27Isle-Adam
+    - http://fr.wikipedia.org/wiki/Auguste_Villiers_de_l%27Isle-Adam
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Nouvelles
+gutenberg_issued: '2020-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62874'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- 19th century'
+- !lcsh 'Short stories, French'
+- GITenberg
+tableOfContents: Les Demoiselles De Bienfilatre -- Véra -- Vox Populi -- Deux augures
+  -- L'affichage céleste -- Antonie -- La machine a gloire -- Duke of Portland --
+  Virginie et Paul -- Le convive des dernières fêtes -- A s'y méprendre -- Impatience
+  de la foule -- Le secret de l'ancienne musique -- Sentimentalisme -- Le plus beau
+  diner du monde -- Le désir d'être un homme -- Fleurs de ténèbres -- L'appareil pour
+  l'analyse chimique du dernier soupir -- Les brigands -- La reine Ysabeau -- Sombre
+  récit, conteur plus sombre -- L'intersigne -- L'inconnue -- Maryelle -- Le traitement
+  du docteur Tristan -- Conte d'amour -- Souvenirs occultes -- L'Annonciateur (Épilogue).
+title: Contes cruels
+url: http://www.gutenberg.org/ebooks/62874
